@@ -8,7 +8,7 @@ Created on Tue May  5 19:43:54 2020
 
 import streamlit as st
 
-st.title("This is My First Streamlit App")
+st.title("This is My First Streamlit App --- Soheil Tehranipour")
 
 ##Heading
 st.header("This is Header")
